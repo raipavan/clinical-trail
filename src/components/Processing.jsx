@@ -13,7 +13,7 @@ const Processing = () => {
     const maxCount = 100; // Set maximum count to 100
 
     // Initialize counters for actions
-    let createBlockCount = 1;
+    let createBlockCount = 0;
 
     // Append rows for each action every 500ms until 100
     const interval = setInterval(() => {

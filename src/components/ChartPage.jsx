@@ -5,10 +5,10 @@ import LineChart from './LineChart';
 const ChartPage = () => {
   // Sample data for each chart
   const createBlockData = [
-    { date: 'Step 1', value: 10 },
+    { date: 'Step 1', value: 3 },
     { date: 'Step 2', value: 20 },
-    { date: 'Step 3', value: 30 },
-    { date: 'Step 4', value: 40 },
+    { date: 'Step 3', value: 45 },
+    { date: 'Step 4', value: 56 },
   ];
 
   const broadcastData = [
