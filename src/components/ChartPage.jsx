@@ -12,32 +12,32 @@ const ChartPage = () => {
   ];
 
   const broadcastData = [
-    { date: 'Step 1', value: 15 },
-    { date: 'Step 2', value: 25 },
-    { date: 'Step 3', value: 35 },
-    { date: 'Step 4', value: 50 },
+    { date: 'Step 1', value: 2 },
+    { date: 'Step 2', value: 17 },
+    { date: 'Step 3', value: 39 },
+    { date: 'Step 4', value: 72 },
   ];
 
   const blockVerifyData = [
     { date: 'Step 1', value: 5 },
-    { date: 'Step 2', value: 30 },
-    { date: 'Step 3', value: 55 },
-    { date: 'Step 4', value: 80 },
+    { date: 'Step 2', value: 10.8 },
+    { date: 'Step 3', value: 33.1 },
+    { date: 'Step 4', value: 66.1 },
   ];
 
   const blockConnectedData = [
-    { date: 'Step 1', value: 0 },
-    { date: 'Step 2', value: 10 },
-    { date: 'Step 3', value: 40 },
-    { date: 'Step 4', value: 90 },
+    { date: 'Step 1', value: 1 },
+    { date: 'Step 2', value: 9 },
+    { date: 'Step 3', value: 36.5 },
+    { date: 'Step 4', value: 55.8 },
   ];
 
   // New fifth chart data
   const blockConfirmedData = [
-    { date: 'Step 1', value: 20 },
-    { date: 'Step 2', value: 40 },
-    { date: 'Step 3', value: 60 },
-    { date: 'Step 4', value: 80 },
+    { date: 'Step 1', value: 3 },
+    { date: 'Step 2', value: 9 },
+    { date: 'Step 3', value: 27 },
+    { date: 'Step 4', value: 35 },
   ];
 
   const chartData = [
